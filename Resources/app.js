@@ -1,4 +1,4 @@
-var Home = require('ui/home');
+var Game = require('ui/game');
 
 // launch Home
-Home.show();
+Game.show();
